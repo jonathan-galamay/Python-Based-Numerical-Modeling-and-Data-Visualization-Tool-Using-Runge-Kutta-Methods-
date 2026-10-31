@@ -201,7 +201,9 @@ The visualization makes it possible to directly compare the numerical approximat
 ## Author
 
 **Jonathan A. Galamay**
+
 **BS Physics Graduate**
+
 **Cagayan State University – Carig Campus**
 
 ## License
